@@ -1,0 +1,108 @@
+.heading{
+    background-color:#E6E6FA;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+table{
+    width: 100%;
+}
+
+.proflpic{
+    width: 150px;
+    border-radius: 50%;
+}
+
+.menu{
+    box-sizing: border-box;
+}
+
+.menuitem{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    padding-right: 20px;
+}
+
+.menuitem:hover{
+    color: darkslategray;
+}
+
+.expic{
+    width: 300px;
+	opacity:0.7;
+}
+
+.projc{
+    background-color:#E6E6FA;
+    padding-top: 30px;
+    padding-bottom: 30px;
+	height:300px;
+}
+.exprsc{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+button{
+    background-color:#00BFFF;
+}
+.emlbtn{
+    text-decoration: none;
+    font-size: large;
+    color: black;
+}
+
+button:hover{
+    background-color:#00BFFF;
+}
+
+div.div1 {
+	width:350px;
+	height:200px;
+	border:1px;
+	background-color:white;
+	color:black;
+	display:inline-block;
+    display:center;
+	position:absolute;
+	z-index:15;
+	down:80%;
+	left:50%;
+	margin: 30px 0 0 -300px;
+	font-family:Alternate Gothic;
+    font-size:20px;
+}
+div.div2{
+	width:380px;
+	height:200px;
+	border:1px;
+	background-color:black;
+	color:white;
+	display:inline-block;
+	float:right;
+	margin:auto;
+	position:absolute;
+	z-index:15;
+	down:80%;
+	left:50%;
+	margin: 30px 0 0 70px;
+    font-family:Alternate Gothic;
+    font-size:20px;
+}
+
+.menu{
+    background-color:#808080;
+    border-radius: 7px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: -10px 80px;
+}
+
+.mnu{
+    width: 319px;
+}
+.userdetail{
+    padding-left: 300px;
+}
